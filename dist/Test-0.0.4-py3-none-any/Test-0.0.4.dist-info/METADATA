@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Test
+Version: 0.0.4
+Summary: Test function to add two nummbers
+Author: Deepak Kumar
+Author-email: ABC@gmail.com
+License: BSD
+Keywords: example documentation tutorial
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: BSD License
+Requires-Dist: setuptools
+
+UNKNOWN
+
